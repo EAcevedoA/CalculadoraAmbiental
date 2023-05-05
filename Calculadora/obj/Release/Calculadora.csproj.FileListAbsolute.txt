@@ -1,0 +1,46 @@
+C:\Users\Emiliano\Desktop\Aplicacion Final\Calculadora.exe.config
+C:\Users\Emiliano\Desktop\Aplicacion Final\Calculadora.exe
+C:\Users\Emiliano\Desktop\Aplicacion Final\Calculadora.pdb
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora.csprojAssemblyReference.cache
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora.Form1.resources
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora.Properties.Resources.resources
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora.csproj.GenerateResource.cache
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora.csproj.CopyComplete
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\itext.barcodes.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\itext.commons.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\itext.forms.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\itext.io.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\itext.kernel.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\itext.layout.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\itext.pdfa.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\itext.sign.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\itext.styledxmlparser.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\itext.svg.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Newtonsoft.Json.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\System.Buffers.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\System.Memory.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\System.ValueTuple.xml
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Calculadora Ambiental.exe.config
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Calculadora Ambiental.exe.manifest
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Calculadora Ambiental.application
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Calculadora Ambiental.exe
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\Calculadora Ambiental.pdb
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora Ambiental.exe.manifest
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora Ambiental.application
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora Ambiental.exe
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora Ambiental.pdb
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\datoscalculadora.mdf
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\datoscalculadora_log.ldf
