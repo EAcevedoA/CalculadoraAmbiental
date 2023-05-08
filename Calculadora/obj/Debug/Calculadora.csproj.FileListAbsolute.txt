@@ -67,3 +67,4 @@ C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Debug\Calculadora Amb
 C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Debug\Calculadora Ambiental.application
 C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Debug\Calculadora Ambiental.exe
 C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Debug\Calculadora Ambiental.pdb
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Debug\Calculadora Ambiental.TrustInfo.xml

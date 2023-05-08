@@ -44,3 +44,4 @@ C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora A
 C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora Ambiental.pdb
 C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\datoscalculadora.mdf
 C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\bin\Release\datoscalculadora_log.ldf
+C:\Users\Emiliano\Documents\Universidad\PV\Calculadora\obj\Release\Calculadora Ambiental.TrustInfo.xml
